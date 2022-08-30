@@ -1,7 +1,5 @@
 # Let's Play Checkers
 
-## Player
-
 ## The `Game` Class
 
 The `Game` class only offers a few methods for interacting with the game itself. The first three methods let you get information about the current game. Call the last method to inform the game about your move decision. 
